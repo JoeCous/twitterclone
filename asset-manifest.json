@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.94ba59c1.chunk.css",
+    "main.js": "/static/js/main.2eedd3d5.chunk.js",
+    "main.js.map": "/static/js/main.2eedd3d5.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.34a6335d.js",
+    "runtime~main.js.map": "/static/js/runtime~main.34a6335d.js.map",
+    "static/js/2.a3e4b7d9.chunk.js": "/static/js/2.a3e4b7d9.chunk.js",
+    "static/js/2.a3e4b7d9.chunk.js.map": "/static/js/2.a3e4b7d9.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.724480b8f99df712c4dce6dac026f2c8.js": "/precache-manifest.724480b8f99df712c4dce6dac026f2c8.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.94ba59c1.chunk.css.map": "/static/css/main.94ba59c1.chunk.css.map",
+    "static/media/bbctwitter.jpg": "/static/media/bbctwitter.8280ca4e.jpg",
+    "static/media/cog.svg": "/static/media/cog.3e0b6dd2.svg",
+    "static/media/gerrardslip.jpg": "/static/media/gerrardslip.548a4a96.jpg",
+    "static/media/griefandloss.jpg": "/static/media/griefandloss.c118e9f9.jpg",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+    "static/media/search.svg": "/static/media/search.26618378.svg",
+    "static/media/skyimage.jpeg": "/static/media/skyimage.9eb93ab8.jpeg"
+  }
+}
